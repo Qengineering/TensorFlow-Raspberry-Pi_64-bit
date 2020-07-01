@@ -5,17 +5,17 @@ TensorFlow installation files for the Raspberry Pi 3/4 with 64-bit operating sys
 <br/><br/>
 For the installation guide see: <br/>
 https://qengineering.eu/install-tensorflow-2.2.0-on-raspberry-64-os.html <br/><br/>
-Download Python wheel ***tensorflow-2.2.0-cp37-cp37m-linux_aarch64.whl*** from Gdrive: https://drive.google.com/file/d/1fR9lsi_bsI_npPFB-wZyvgjbO0V9FbMf/view?usp=sharing <br/><br/>
-Download C++ API ***libtensorflow_cp37_64OS_2_2_0.tar.gz*** from Gdrive: https://drive.google.com/file/d/1TErP9AfTTiWQB9E82JnwAaqFMuM82YaN/view?usp=sharing <br/><br/>
+Download Python wheel **tensorflow-2.2.0-cp37-cp37m-linux_aarch64.whl** from Gdrive: https://drive.google.com/file/d/1fR9lsi_bsI_npPFB-wZyvgjbO0V9FbMf/view?usp=sharing <br/><br/>
+Download C++ API **libtensorflow_cp37_64OS_2_2_0.tar.gz** from Gdrive: https://drive.google.com/file/d/1TErP9AfTTiWQB9E82JnwAaqFMuM82YaN/view?usp=sharing <br/><br/>
 ## Ubuntu 20.04 (Python 3.8)
 TensorFlow installation files for the Raspberry Pi 3/4 with Ubuntu 20.04 operating system <br/><br/>
-Download Python wheel ***tensorflow-2.2.0-cp38-cp38-linux_aarch64.whl*** from Gdrive: https://drive.google.com/file/d/1uKa6dsyqBkuwo-BYR8GenG_56z8UGgKk/view?usp=sharing <br/><br/>
-Download C++ API ***libtensorflow_cp38_64OS_2_2_0.tar.gz*** from Gdrive:<br/>
+Download Python wheel **tensorflow-2.2.0-cp38-cp38-linux_aarch64.whl** from Gdrive: https://drive.google.com/file/d/1uKa6dsyqBkuwo-BYR8GenG_56z8UGgKk/view?usp=sharing <br/><br/>
+Download C++ API **libtensorflow_cp38_64OS_2_2_0.tar.gz** from Gdrive:<br/>
 https://drive.google.com/file/d/1fs8ugOny-gbEtbxJ9FEaSIDCtuG5a-bi/view?usp=sharing <br/><br/>
 ## Ubuntu 18.04 (Python 3.6)
 TensorFlow installation files for the Raspberry Pi 3/4 with Ubuntu 20.04 operating system <br/><br/>
-Download Python wheel ***tensorflow-2.2.0-cp36-cp36-linux_aarch64.whl*** from Gdrive: https://drive.google.com/file/d/1kzQ11dhRaAEP-tH2mMAG_QGh7dfAlZZn/view?usp=sharing <br/><br/>
-Download C++ API ***libtensorflow_cp36_64OS_2_2_0.tar.gz*** from Gdrive:<br/>
+Download Python wheel **tensorflow-2.2.0-cp36-cp36-linux_aarch64.whl** from Gdrive: https://drive.google.com/file/d/1kzQ11dhRaAEP-tH2mMAG_QGh7dfAlZZn/view?usp=sharing <br/><br/>
+Download C++ API **libtensorflow_cp36_64OS_2_2_0.tar.gz** from Gdrive:<br/>
 https://drive.google.com/file/d/1NQsCkRseh-teEljHmzMK3MnzgtBeJ6dS/view?usp=sharing <br/><br/>
 
 
