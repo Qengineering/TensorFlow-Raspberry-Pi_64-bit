@@ -1,5 +1,6 @@
 # TensorFlow 2.3.0 rc1 for the Raspberry Pi 64-bit OS
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
+Note, for the Raspberry Pi 4 **32-bit OS** look [here](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)<br/>
 ## 64-bit OS (Python 3.7)
 TensorFlow installation files for the Raspberry Pi 3/4 with 64-bit operating system
 <br/><br/>
