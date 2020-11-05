@@ -52,5 +52,5 @@ Download Python wheel **tensorflow-2.2.0-cp36-cp36-linux_aarch64.whl** from [Gdr
 Download C++ API **libtensorflow_cp36_64OS_2_2_0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1NQsCkRseh-teEljHmzMK3MnzgtBeJ6dS/view?usp=sharing) <br/><br/>
 
 
-Please notice, this is the full TensorFlow package, not the small computer TensorFlow Lite version.<br/>
+Please notice, this is the full TensorFlow package, not the TensorFlow Lite version for small devices and mobile phones.<br/>
 For this guide of TensorFlow Lite see [Install TensorFlow Lite](https://qengineering.eu/install-tensorflow-2-lite-on-raspberry-64-os.html) <br/>
