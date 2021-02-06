@@ -1,3 +1,15 @@
+# TensorFlow 2.4.1 for the Raspberry Pi 64-bit OS
+Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
+Note, for the Raspberry Pi 4 **32-bit OS** look [here](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)<br/>
+## 64-bit OS (Python 3.7)
+TensorFlow installation files for the Raspberry Pi 3/4 with 64-bit operating system
+<br/><br/>
+For the installation guide see [Install TensorFlow 2.4.0](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) <br/><br/>
+Download Python wheel **tensorflow-2.4.1-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1x2nxbi8rLvF7WzYkuwt9SOuDvsOUytjE/view?usp=sharing) <br/><br/>
+Download C++ API **libtensorflow_cp37_64OS_2_4_1.tar.gz** from [Gdrive](https://drive.google.com/file/d/1oquDH2xcrhiXYU0eXTU9pw6CnCLreByr/view?usp=sharing)
+
+------
+
 # TensorFlow 2.4.0 for the Raspberry Pi 64-bit OS
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
 Note, for the Raspberry Pi 4 **32-bit OS** look [here](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)<br/>
@@ -14,8 +26,10 @@ Download C++ API **libtensorflow_cp38_64OS_2_4_0.tar.gz** from [Gdrive](https://
 ## Ubuntu 18.04 (Python 3.6)
 TensorFlow installation files for the Raspberry Pi 3/4 with Ubuntu 20.04 operating system <br/><br/>
 Download Python wheel **tensorflow-2.4.0-cp36-cp36-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1dbmzujuQ5rTq6KykhDRlbol0oW6X1bl4/view?usp=sharing) <br/><br/>
-Download C++ API **libtensorflow_cp36_64OS_2_4_0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1jy9wJHPWM881zm0teKBWNlpcPSw5NN_f/view?usp=sharing) <br/><br/>
-<br/><br/>
+Download C++ API **libtensorflow_cp36_64OS_2_4_0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1jy9wJHPWM881zm0teKBWNlpcPSw5NN_f/view?usp=sharing) 
+
+------
+
 # TensorFlow 2.3.1 for the Raspberry Pi 64-bit OS
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
 Note, for the Raspberry Pi 4 **32-bit OS** look [here](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)<br/>
@@ -32,8 +46,10 @@ Download C++ API **libtensorflow_cp38_64OS_2_3_1.tar.gz** from [Gdrive](https://
 ## Ubuntu 18.04 (Python 3.6)
 TensorFlow installation files for the Raspberry Pi 3/4 with Ubuntu 20.04 operating system <br/><br/>
 Download Python wheel **tensorflow-2.3.1-cp36-cp36-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1dbmzujuQ5rTq6KykhDRlbol0oW6X1bl4/view?usp=sharing) <br/><br/>
-Download C++ API **libtensorflow_cp36_64OS_2_3_1.tar.gz** from [Gdrive](https://drive.google.com/file/d/1jy9wJHPWM881zm0teKBWNlpcPSw5NN_f/view?usp=sharing) <br/><br/>
-<br/><br/>
+Download C++ API **libtensorflow_cp36_64OS_2_3_1.tar.gz** from [Gdrive](https://drive.google.com/file/d/1jy9wJHPWM881zm0teKBWNlpcPSw5NN_f/view?usp=sharing) 
+
+------
+
 # TensorFlow 2.3.0 for the Raspberry Pi 64-bit OS
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
 Note, for the Raspberry Pi 4 **32-bit OS** look [here](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)<br/>
@@ -50,8 +66,10 @@ Download C++ API **libtensorflow_cp38_64OS_2_3_0.tar.gz** from [Gdrive](https://
 ## Ubuntu 18.04 (Python 3.6)
 TensorFlow installation files for the Raspberry Pi 3/4 with Ubuntu 20.04 operating system <br/><br/>
 Download Python wheel **tensorflow-2.3.0-cp36-cp36-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/16e8x6RtCXeRqNN6R2sWgBMAoLouvrK3G/view?usp=sharing) <br/><br/>
-Download C++ API **libtensorflow_cp36_64OS_2_3_0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1MnFQt83H9INI7BebLsvaFWpYmLA0lVqj/view?usp=sharing) <br/><br/>
-<br/><br/>
+Download C++ API **libtensorflow_cp36_64OS_2_3_0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1MnFQt83H9INI7BebLsvaFWpYmLA0lVqj/view?usp=sharing) 
+
+------
+
 # TensorFlow 2.2.0 for the Raspberry Pi 64-bit OS
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
 ## 64-bit OS (Python 3.7)
