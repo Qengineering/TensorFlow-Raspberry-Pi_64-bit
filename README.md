@@ -1,4 +1,4 @@
-![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Tip: find TensorFlow with other frameworks and deep-learning examples on our [SD-image](https://github.com/Qengineering/RPi-image)
+![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find TensorFlow with other frameworks and deep-learning examples on our [SD-image](https://github.com/Qengineering/RPi-image)
 # TensorFlow 2.4.1 for the Raspberry Pi 64-bit OS
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
 Note, for the Raspberry Pi 4 **32-bit OS** look [here](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)<br/>
