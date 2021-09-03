@@ -5,7 +5,7 @@ Note, for the Raspberry Pi 4 **32-bit OS** look [here](https://github.com/Qengin
 ## 64-bit OS (Python 3.7)
 TensorFlow installation files for the Raspberry Pi 3/4 with 64-bit operating system
 <br/><br/>
-For the installation guide see [Install TensorFlow 2.5.0](https://qengineering.eu/install-tensorflow-2.5-on-raspberry-64-os.html) <br/><br/>
+For the installation guide see [Install TensorFlow 2.6.0](https://qengineering.eu/install-tensorflow-2.5-on-raspberry-64-os.html) <br/><br/>
 Download Python wheel **tensorflow-2.6.0-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1BLXP7RKEfTp9fxbmI8Qu2FdhU7NUxcwV/view?usp=sharing) <br/><br/>
 Download C++ API **libtensorflow_cp37_64OS_2_6_0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1ShYMM07rAiLh8nleqaRP2PCkf9B8NYa_/view?usp=sharing)
 
@@ -17,7 +17,7 @@ Note, for the Raspberry Pi 4 **32-bit OS** look [here](https://github.com/Qengin
 ## 64-bit OS (Python 3.7)
 TensorFlow installation files for the Raspberry Pi 3/4 with 64-bit operating system
 <br/><br/>
-For the installation guide see [Install TensorFlow 2.5.0](https://qengineering.eu/install-tensorflow-2.5-on-raspberry-64-os.html) <br/><br/>
+For the installation guide see [Install TensorFlow 2.5.1](https://qengineering.eu/install-tensorflow-2.5-on-raspberry-64-os.html) <br/><br/>
 Download Python wheel **tensorflow-2.5.1-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1g6jegU7QMm4QBkDKt7dWWXaauZjfE30l/view?usp=sharing) <br/><br/>
 Download C++ API **libtensorflow_cp37_64OS_2_5_1.tar.gz** from [Gdrive](https://drive.google.com/file/d/1CuWeGEDcpZBlMrYBzTKIn2Imc9zjaTwb/view?usp=sharing)
 
