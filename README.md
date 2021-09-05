@@ -8,6 +8,10 @@ TensorFlow installation files for the Raspberry Pi 3/4 with 64-bit operating sys
 For the installation guide see [Install TensorFlow 2.6.0](https://qengineering.eu/install-tensorflow-2.6-on-raspberry-64-os.html) <br/><br/>
 Download Python wheel **tensorflow-2.6.0-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1BLXP7RKEfTp9fxbmI8Qu2FdhU7NUxcwV/view?usp=sharing) <br/><br/>
 Download C++ API **libtensorflow_cp37_64OS_2_6_0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1ShYMM07rAiLh8nleqaRP2PCkf9B8NYa_/view?usp=sharing)
+## Ubuntu 20.04 (Python 3.8)
+TensorFlow installation files for the Raspberry Pi 3/4 with Ubuntu 20.04 operating system <br/><br/>
+Download Python wheel **tensorflow-2.6.0-cp38-cp38-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/13_otGSGrsE1atBB2RjcPhOvONErKSFef/view?usp=sharing) <br/><br/>
+Download C++ API **libtensorflow_cp38_64OS_2_6_0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1vxsDl1Xfs3ftdHs04LH6hnLuGnxG8GmW/view?usp=sharing) <br/><br/>
 
 ------
 
