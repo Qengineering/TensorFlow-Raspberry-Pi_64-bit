@@ -81,7 +81,7 @@ Download C++ API **libtensorflow_cp38_64OS_2_4_0.tar.gz** from [Gdrive](https://
 ## Ubuntu 18.04 (Python 3.6)
 TensorFlow installation files for the Raspberry Pi 3/4 with Ubuntu 18.04 operating system <br/><br/>
 Download Python wheel **tensorflow-2.4.0-cp36-cp36-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1dbmzujuQ5rTq6KykhDRlbol0oW6X1bl4/view?usp=sharing) <br/><br/>
-Download C++ API **libtensorflow_cp36_64OS_2_4_0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1jy9wJHPWM881zm0teKBWNlpcPSw5NN_f/view?usp=sharing) 
+Download C++ API **libtensorflow_cp36_64OS_2_4_0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1X4JgenLejnooXuVgaSihgoip9-8XkMO6/view?usp=sharing) 
 
 ------
 
