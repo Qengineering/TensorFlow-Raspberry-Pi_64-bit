@@ -1,16 +1,15 @@
 ![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find TensorFlow with other frameworks and deep-learning examples on our [SD-image](https://github.com/Qengineering/RPi-image)
-<!--
 # TensorFlow 2.6.0 for the RPi 64-bit Bullseye
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
 ## 64-bit OS (Python 3.9)
 TensorFlow installation files for the Raspberry Pi 3/4 with 64-bit operating system
 <br/><br/>
 For the installation guide see [Install TensorFlow 2.6.0](https://qengineering.eu/install-tensorflow-2.6-on-raspberry-64-os.html) <br/><br/>
-Download Python wheel **tensorflow-2.6.0-cp39-cp39-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1c-fOVdpq-o7e4DSX3HiFDD15S1WwbZK9/view?usp=sharing) <br/><br/>
-Download C++ API **libtensorflow_cp39_64OS_2_6_0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1mlGwmX-kX288XZMQQaiIUgliexXBOVHJ/view?usp=sharing) 
+Download Python wheel **tensorflow-2.7.0-cp39-cp39-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1FdVZ1kX5QZgWk2SSgq31C2-CF95QhT58/view?usp=sharing) <br/><br/>
+Download C++ API **libtensorflow_cp39_64OS_2_7_0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1kScCKyj0pr265XbCgYmXqXs77xJFe6p1/view?usp=sharing) 
 
 ------
--->
+
 # TensorFlow 2.7.0 for the RPi 64-bit Buster
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
 Note, for the Raspberry Pi 4 **32-bit OS** look [here](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)<br/>
