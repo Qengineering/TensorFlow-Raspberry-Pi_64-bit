@@ -1,5 +1,5 @@
 ![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find TensorFlow with other frameworks and deep-learning examples on our [SD-image](https://github.com/Qengineering/RPi-image)
-# TensorFlow 2.6.0 for the RPi 64-bit Bullseye
+# TensorFlow 2.7.0 for the RPi 64-bit Bullseye
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
 ## 64-bit OS (Python 3.9)
 TensorFlow installation files for the Raspberry Pi 3/4 with 64-bit operating system
