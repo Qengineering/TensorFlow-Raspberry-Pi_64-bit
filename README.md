@@ -33,8 +33,17 @@ TensorFlow 2.5, 2.6 and 2.7 depend on CUDA 11.0 and cuDNN version 8.0.4, both no
 
 ----------------------
 
+### tensorflow-io-gcs
+TensorFlow 2.8 and higher depends on the tensorflow-io-gcs file system. However, there is no aarch64 distribution. You have to install it on forehand manually with the following commands.
+```
+$ git clone https://github.com/Qengineering/Tensorflow-io.git
+$ cd Tensorflow-io
+$ sudo -H pip3 install tensorflow_io_gcs_filesystem-0.23.1-cp39-cp39-linux_aarch64.whl
+$ cd ~
+```
+
 ### TensorFlow 2.10.0
-You can run into protobuffer incompatibility probrems when running TensorFlow 2.10.0. as can seen on the screendum below.<br><br>
+You can run into protobuffer incompatibility problems when running TensorFlow 2.10.0. as can seen on the screendum below.<br><br>
 ![output image]( https://qengineering.eu/github/TF_2_10_Protobuf_1.png )<br/><br>
 You have to lower the protobuf version to 3.19.0 with the command:<br>
 ```
